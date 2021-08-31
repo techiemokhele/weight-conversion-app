@@ -1,6 +1,3 @@
-//instruction
-alert("After inserting your value, please click on the enter button so that the conversion can take place");
-
 const form = document.querySelector('form');
 
 //add an event listener to the form
